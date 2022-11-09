@@ -4,8 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+My name is Chris Gotuaco. I'm a recent grad of the University of Notre Dame, where I majored in Economics and minored in Computing and Digital Technologies.
